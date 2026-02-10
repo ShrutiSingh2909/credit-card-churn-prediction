@@ -6,9 +6,6 @@ Predicting credit card customer churn using machine learning with behavioral ana
 - Analyze behavioral patterns related to customer attrition
 - Build interpretable machine learning models
 
-## Dataset
-Publicly available credit card customer dataset containing demographic and behavioral features.
-
 ## Tech Stack
 Python, Pandas, Scikit-learn, XGBoost, SHAP
 
